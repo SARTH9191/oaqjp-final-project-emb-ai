@@ -1,4 +1,6 @@
-# Emotion Detection Web Application
+# Final Project: Emotion Detection Web Application
+
+**Project Name:** Final Project
 
 An AI-powered web application that detects and analyzes emotions from textual statements using the Watson NLP EmotionPredict service and a Flask backend.
 
@@ -11,7 +13,7 @@ The Emotion Detector application evaluates text statements and provides confiden
 - **Joy**
 - **Sadness**
 
-It also evaluates and displays the **dominant emotion** with the highest score. If an invalid or empty text string is submitted, robust error handling returns a user-friendly error notification.
+It also evaluates and displays the **dominant emotion** with the highest score. If an invalid or empty text string is submitted, robust error handling returns a user-friendly error notification: `"Invalid text! Please try again!"`.
 
 ---
 
